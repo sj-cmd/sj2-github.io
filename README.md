@@ -12,21 +12,16 @@ These materials are intended to provide further context and support the methodol
 
 ### Access-Teach-Validate Framework 
 
-#### Prompt Template 1: Two-Step RaR
-
-![Two-Step RaR](figures/two_step_prompting_flow_detailed.png)
-
-#### Prompt Template 2: CoVe
-
-![CoVe](figures/cove_prompting_flow_detailed.png)
-
-#### Prompt Template 2: Few-Shot CoT
-
-![Few-Shot CoT](figures/xmi_one_shot_generation_prompt.png)
+<p align="center">
+  <img src="figures/two_step_prompting_flow_detailed.png" alt="Two-Step RaR" width="600">
+  <img src="figures/cove_prompting_flow_detailed.png" alt="CoVe" width="600">
+  <img src="figures/xmi_one_shot_generation_prompt.png" alt="One-Shot CoT" width="600">
+</p>
 
 ### XML File Template
-
-![XML File Template](figures/xmi_template_figure_color.png)
+<p align="center">
+  <img src="figures/xmi_template_figure_color.png" alt="XML File Template" width="600">
+</p>
 
 **Description:** [Brief description of the figure.]
 
